@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "build": "cd client && npm install && npm run build",
+    "build": "dir Shankaragouda_G_UI_Developer_Profile && npm install && npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
